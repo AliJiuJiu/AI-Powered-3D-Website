@@ -1,0 +1,24 @@
+Following Youtube video on three.js tutorial https://www.youtube.com/watch?v=ZqEa8fTxypQ&list=PLtSaa1zIRHMDdkHPWm975HQeFmznIk5sj&index=5&t=296s
+
+Using vite to create react projects by running command:
+npm create vite@latest -- --template react client
+
+cd client to go to the client folder and install relevant packages by running:
+
+npm install three @react-three/fiber @react-three/drei maath valtio react-color framer-motion
+
+
+
+git cheatsheet
+
+echo "# AI-powered-3D-website" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/AliJiuJiu/AI-powered-3D-website.git
+git push -u origin main
+…or push an existing repository from the command line
+git remote add origin https://github.com/AliJiuJiu/AI-powered-3D-website.git
+git branch -M main
+git push -u origin main
